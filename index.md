@@ -1,10 +1,18 @@
-## Welcome to GitHub Pages
+## Personal Information
 
-You can use the [editor on GitHub](https://github.com/RobZyg/Assignment1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Student Number: s3795095
+Email Address: s3795095@student.rmit.edu.au
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am originally from Melbourne and I moved up to Canberra about three years ago for work. I have a Master of Law and work as a Privacy Lawyer for a Government Department. I enjoy playing and watching sport such as Australian Rules Football and soccer. 
 
-### Markdown
+## Interest in IT
+
+My interest in IT is building computers, connecting networks, programming and for work cybersecurity. My interest in IT developed when I was in high school and built my first desktop computer tower. From there, I studied IT at high school and programming in Python and HTML as a breadth subject at university.  There was no single event that sparked my interest in IT as it has evolved over time. My IT experience is basic programming in Python and HTML, being able to connect hardware together including building desktop computer towers, connecting and crimping ethernet cables  to create wall sockets and interacting with the cybersecurity team in my department providing advice on how personal information is managed under the Privacy Act 1988 (Cth). 
+
+I chose to study at RMIT for a range of reasons. It was the ease of being able to study online and flexibility in being able to choose a time during the week that I can study around work and my other commitments. Furthermore, having being from Melbourne I had a few high school friends study at RMIT engineering and IT courses and they gave praise as to how their experience was at RMIT.
+
+From my study of this subject I hope to gather a broad understanding of the IT industry and hopefully narrow down avenues that I wish to pursue. I expect to learn from RMIT knowledge to possibly transition into an IT career or depending on the outcome of this subject and the avenue that I choose, a greater understanding of the growing IT industry so that I am more readily able to interact with and understand it.
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
