@@ -84,7 +84,7 @@ The project is an App on Android devices that stops text message notifications w
 
 ### Motivation
 
-It is illegal to operate a mobile phone whilst driving in Australia. Limited functions such as GPS on the mobile phone be used as long as it secure secured in a commercially designed holder. All other functions (including video calls, texting, emailing, task management, photography, social media, shopping and share economy apps) are prohibited.  Furthermore, a the reason that it is not legal to text and drive is provide by a September 2015 fact sheet co-authored by  Motor Accident Insurance Commission and the Queensland University of Technology.  Reports have indicated that driver distraction is one of the main causes of road crashes, accounting for approximately 1 in 4 car crashes , furthermore, using a mobile phone whilst driving is highly distracting and increases risks of a crash by four-fold.  Despite the dangers and illegality, approximately 25% of surveyed Queensland drivers reported using their hand-held mobile phone on a daily basis to answer or make calls, as well as read text messages, while 14% reported using their hand-held phone to send a text message on a daily basis.  The App is designed to limit the distraction to the driver and provide some positive utility in the form of a parked car locator. 
+It is illegal to operate a mobile phone whilst driving in Australia. Limited functions such as GPS on the mobile phone be used as long as it secure secured in a commercially designed holder. All other functions (including video calls, texting, emailing, task management, photography, social media, shopping and share economy apps) are prohibited. Reports have indicated that driver distraction is one of the main causes of road crashes, accounting for approximately 1 in 4 car crashes (US Department of Transporation, 2006), furthermore, using a mobile phone whilst driving is highly distracting and increases risks of a crash by four-fold (VicRoads, 2011). Despite the dangers and illegality, approximately 25% of surveyed Queensland drivers reported using their hand-held mobile phone on a daily basis to answer or make calls, as well as read text messages, while 14% reported using their hand-held phone to send a text message on a daily basis (White, K.M., Walsh, S.P., Hyde, M.K., & Watson, B.C, 2010). The App is designed to limit the distraction to the driver and provide some positive utility in the form of a parked car locator. 
 
 #### Description
 
@@ -102,35 +102,9 @@ Java skills are required for programming Android Apps. Depending on the difficul
 
 If the project is successful there will be an App that limits one of the main distraction to drivers on Australian roads which can lead to accidents. It will also allow users to record and locate their parked cars which will be useful in unfamiliar areas to the driver.
 
-![GitHub Logo](https://robzyg.github.io/Assignment1/Ideal job.pdf)
-Format: ![Alt Text](url)
+## Reference List:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RobZyg/Assignment1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Motor Accident Insurance Commission and the Queensland University of Technology, September 2015, <https://research.qut.edu.au/carrsq/wp-content/uploads/sites/45/2017/12/Mobile-phone-distraction-email.pdf>
+- US Department of Transporation. National Highway Traffic Safety Administration. (2006). The impact of driver inattention on near crash/ crash risk: An analysis using the 100-car Naturalistic Driving Study data. (Report No. DOT HS 810 594). Washington DC.
+- VicRoads. (2011). Driving and mobile phones: A dangerous mix Fact Sheet. Melbourne: State Government of Victoria
+- White, K.M., Walsh, S.P., Hyde, M.K., & Watson, B.C (2010). Mobile phone use while driving: An investigation of the beliefs influencing drivers’ hands-free and hand-held mobile phone use. Transportation Research Part F: Traffic Psychology and Behaviour, 13(1), 9-20.
