@@ -95,9 +95,8 @@ Java skills are required for programming Android Apps. Depending on the difficul
 
 If the project is successful there will be an App that limits one of the main distraction to drivers on Australian roads which can lead to accidents. It will also allow users to record and locate their parked cars which will be useful in unfamiliar areas to the driver.
 
-#1
-mojombo#1
-mojombo/github-flavored-markdown#1
+![GitHub Logo](/images/logo.png)
+Format: ![Alt Text](url)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
