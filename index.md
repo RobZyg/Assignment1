@@ -1,5 +1,7 @@
 ## Personal Information
 
+Name not provided due to privacy
+
 Student Number: s3795095
 Email Address: s3795095@student.rmit.edu.au
 
@@ -13,6 +15,10 @@ I chose to study at RMIT for a range of reasons. It was the ease of being able t
 
 From my study of this subject I hope to gather a broad understanding of the IT industry and hopefully narrow down avenues that I wish to pursue. I expect to learn from RMIT knowledge to possibly transition into an IT career or depending on the outcome of this subject and the avenue that I choose, a greater understanding of the growing IT industry so that I am more readily able to interact with and understand it.
 
+## Ideal Job
+
+Cyber Security Consultant
+Link to the ideal job: https://www.seek.com.au/job/39045245?type=standout&searchrequesttoken=3c70b87e-f640-4eae-8fba-8d3342048627
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
