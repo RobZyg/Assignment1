@@ -47,7 +47,7 @@ Results of the Myer-Briggs test:
 -	61% feeling
 -	61% tactics
 -	53% assertive
-- A PDF copy of the Myers-Briggs test results can be found at:<embed src="https://robzyg.github.io/Assignment1/Myers-BriggsTest.pdf" type="application/pdf" width="600px" height="500px" />
+- A PDF copy of the Myers-Briggs test results can be found at:<embed src="https://robzyg.github.io/Assignment1/MyersBriggsTest.pdf" type="application/pdf" width="600px" height="500px" />
 
 
 Results of the Learning styles test:
