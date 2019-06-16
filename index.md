@@ -1,5 +1,7 @@
 ## Personal Information
 
+<embed src="https://sumanbogati.github.io/sample.pdf" type="application/pdf" />
+
 Name not provided due to privacy
 
 Student Number: s3795095
