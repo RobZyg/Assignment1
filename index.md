@@ -22,7 +22,7 @@ Cyber Security Consultant
 
 Link to the ideal job: https://www.seek.com.au/job/39045245?type=standout&searchrequesttoken=3c70b87e-f640-4eae-8fba-8d3342048627
 
-A PDF copy of it can be found at:<embed src="https://robzyg.github.io/Assignment1/IdealJob.pdf" type="application/pdf" width="600px" height="500px" />
+A PDF copy of adevertised job can be found at:<embed src="https://robzyg.github.io/Assignment1/IdealJob.pdf" type="application/pdf" width="600px" height="500px" />
 
 ### Description of the position and what makes it appealing to me
 
@@ -47,11 +47,14 @@ Results of the Myer-Briggs test:
 -	61% feeling
 -	61% tactics
 -	53% assertive
+- A PDF copy of the Myers-Briggs test results can be found at:<embed src="https://robzyg.github.io/Assignment1/Myers-BriggsTest.pdf" type="application/pdf" width="600px" height="500px" />
+
 
 Results of the Learning styles test:
 -	Kinesthetic 69
 -	Visual 51
 -	Auditory 49
+- A PDF copy of the Learning styles test results can be found at:<embed src="https://robzyg.github.io/Assignment1/PersonalityMaxLearning.pdf" type="application/pdf" width="600px" height="500px" />
 
 Results of the TypeFinder Personality test:
 -	63% extraverted
@@ -59,6 +62,7 @@ Results of the TypeFinder Personality test:
 -	55% feeling
 -	60% judging
 -	Personality code types:  ‘The Teacher’ and ‘The Provider’
+- A PDF copy of the TypeFinder Personality test results can be found at:<embed src="https://robzyg.github.io/Assignment1/TypeFinderPersonality.pdf" type="application/pdf" width="600px" height="500px" />
 
 ### What the results mean to me
 
