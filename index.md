@@ -95,7 +95,7 @@ Java skills are required for programming Android Apps. Depending on the difficul
 
 If the project is successful there will be an App that limits one of the main distraction to drivers on Australian roads which can lead to accidents. It will also allow users to record and locate their parked cars which will be useful in unfamiliar areas to the driver.
 
-![GitHub Logo](Ideal job.pdf)
+![GitHub Logo](https://robzyg.github.io/Assignment1/Ideal job.pdf)
 Format: ![Alt Text](url)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
