@@ -22,7 +22,7 @@ Cyber Security Consultant
 
 Link to the ideal job: https://www.seek.com.au/job/39045245?type=standout&searchrequesttoken=3c70b87e-f640-4eae-8fba-8d3342048627
 
-A PDF copy of it can be found at:<embed src="https://robzyg.github.io/Assignment1/IdealJob.pdf" type="application/pdf" />
+A PDF copy of it can be found at:<embed src="https://robzyg.github.io/Assignment1/IdealJob.pdf" type="application/pdf" width="600px" height="500px" />
 
 ### Description of the position and what makes it appealing to me
 
