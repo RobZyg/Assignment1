@@ -8,7 +8,7 @@ Email Address: s3795095@student.rmit.edu.au
 
 I am originally from Melbourne and I moved up to Canberra about three years ago for work. I have a Master of Law and work as a Privacy Lawyer for a Government Department. I enjoy playing and watching sport such as Australian Rules Football and soccer. 
 
-Photo: <img src= "{{ "="https://robzyg.github.io/Assignment1/123.jpg" | prepend: site.baseurl }}">
+Photo: <img src= "https://robzyg.github.io/Assignment1/123.jpg" >
 
 ## Interest in IT
 
